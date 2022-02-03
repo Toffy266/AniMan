@@ -1,7 +1,7 @@
 # Midterm-Project-AniMan
 Midterm Project CP353 Web Technology
 
-App Description & Preview (videos) : https://youtu.be/N1r6JTwsd9A
+Web App Description & Preview (videos) : https://youtu.be/N1r6JTwsd9A
 
 สมาชิก: 
 1) นางสาวบงกช บัวศรี (62102010171)
